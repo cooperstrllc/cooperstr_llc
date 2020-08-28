@@ -13,3 +13,7 @@ img {
 p {
 	text-align: center;
 }
+
+body {
+  padding-top: 56px;
+}
